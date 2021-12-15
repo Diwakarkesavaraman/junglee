@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1079246348554",
+    "project_id": "junglee-8eacf",
+    "storage_bucket": "junglee-8eacf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079246348554:android:77b1b9dad078154e1b1af3",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079246348554-60m04tvl2da6nqc5e59mtjpedth2e31g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlP2-qHaV5bLdQbVc4VuwVqp4m6fDFkGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079246348554-60m04tvl2da6nqc5e59mtjpedth2e31g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079246348554:android:64d7d40347808a0d1b1af3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079246348554-egoa7hivt1upmgck44a5qfm0bdpculld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_auths",
+            "certificate_hash": "e1d628d57c4a981d017fea5a36ca8ae297f3aa71"
+          }
+        },
+        {
+          "client_id": "1079246348554-60m04tvl2da6nqc5e59mtjpedth2e31g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlP2-qHaV5bLdQbVc4VuwVqp4m6fDFkGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079246348554-60m04tvl2da6nqc5e59mtjpedth2e31g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
